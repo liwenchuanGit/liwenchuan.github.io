@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>文川</title>
+  <title>李文川博客</title>
   
   <subtitle>Personal Blog</subtitle>
   <link href="https://liwenchuangit.github.io/atom.xml" rel="self"/>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://liwenchuangit.github.io/2023/05/28/hello-world/"/>
-    <id>https://liwenchuangit.github.io/2023/05/28/hello-world/</id>
+    <link href="https://liwenchuangit.github.io/abbrlink.html"/>
+    <id>https://liwenchuangit.github.io/abbrlink.html</id>
     <published>2023-05-28T15:54:26.198Z</published>
     <updated>2023-05-28T15:54:26.198Z</updated>
     
