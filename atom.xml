@@ -6,7 +6,7 @@
   <link href="https://liwenchuangit.github.io/atom.xml" rel="self"/>
   
   <link href="https://liwenchuangit.github.io/"/>
-  <updated>2023-05-31T15:15:34.323Z</updated>
+  <updated>2023-06-01T15:01:53.595Z</updated>
   <id>https://liwenchuangit.github.io/</id>
   
   <author>
@@ -17,9 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>第一篇文章+测试</title>
+    <link href="https://liwenchuangit.github.io/posts/37817.html"/>
+    <id>https://liwenchuangit.github.io/posts/37817.html</id>
+    <published>2023-06-01T14:32:45.000Z</published>
+    <updated>2023-06-01T15:01:53.595Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;测试数据&quot;&gt;&lt;a href=&quot;#测试数据&quot; class=&quot;headerlink&quot; title=&quot;测试数据&quot;&gt;&lt;/a&gt;测试数据&lt;/h3&gt;&lt;pre class=&quot; language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;$ hexo</summary>
+        
+      
+    
+    
+    
+    <category term="测试" scheme="https://liwenchuangit.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试" scheme="https://liwenchuangit.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://liwenchuangit.github.io/abbrlink.html"/>
-    <id>https://liwenchuangit.github.io/abbrlink.html</id>
+    <link href="https://liwenchuangit.github.io/posts/16107.html"/>
+    <id>https://liwenchuangit.github.io/posts/16107.html</id>
     <published>2023-05-28T15:54:26.198Z</published>
     <updated>2023-05-31T15:15:34.323Z</updated>
     
